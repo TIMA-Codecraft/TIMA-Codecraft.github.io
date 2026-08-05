@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timacodecraft.my.id/sitemap.xml
