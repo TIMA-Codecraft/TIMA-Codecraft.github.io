@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TIMA Codecraft — Blog</title>
+    <link>https://timacodecraft.com/blog</link>
+    <atom:link href="https://timacodecraft.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>Insight, tips, dan cerita seputar pengembangan web, mobile, UI/UX, dan transformasi digital dari tim TIMA Codecraft.</description>
+    <language>id</language>
+    <lastBuildDate>Wed, 11 Nov 2026 16:01:01 GMT</lastBuildDate>
+    <item>
+      <title>SiDesa — Transformasi Digital Tata Kelola dan Pelayanan Publik Desa Modern</title>
+      <link>https://timacodecraft.com/blog/sidesa-transformasi-digital-desa</link>
+      <guid isPermaLink="true">https://timacodecraft.com/blog/sidesa-transformasi-digital-desa</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Bagaimana SiDesa membantu pemerintah desa mendigitalisasi administrasi kependudukan, mempercepat layanan surat warga, dan mewujudkan transparansi publik yang inklusif.</description>
+    </item>
+    <item>
+      <title>SEO Teknis untuk Website Baru: Checklist yang Sering Terlewat</title>
+      <link>https://timacodecraft.com/blog/seo-teknis-website-baru</link>
+      <guid isPermaLink="true">https://timacodecraft.com/blog/seo-teknis-website-baru</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Struktur heading, canonical, sitemap, metadata, data terstruktur, dan Search Console — langkah teknis yang menentukan website baru Anda bisa ditemukan atau tidak.</description>
+    </item>
+    <item>
+      <title>Checklist Kesiapan Rilis Aplikasi: 12 Hal Sebelum Meluncur</title>
+      <link>https://timacodecraft.com/blog/checklist-rilis-aplikasi</link>
+      <guid isPermaLink="true">https://timacodecraft.com/blog/checklist-rilis-aplikasi</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Dari backup yang sudah diuji restore, monitoring error, sampai halaman kebijakan privasi — daftar periksa praktis sebelum aplikasi Anda dipakai pengguna sungguhan.</description>
+    </item>
+    <item>
+      <title>Berapa Biaya Membuat Website untuk Bisnis? Kenali Komponennya</title>
+      <link>https://timacodecraft.com/blog/biaya-membuat-website</link>
+      <guid isPermaLink="true">https://timacodecraft.com/blog/biaya-membuat-website</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Domain, hosting, lisensi, jasa pembuatan, perawatan — bedakan biaya sekali bayar dan biaya berjalan, plus pertanyaan yang sebaiknya Anda ajukan sebelum meminta penawaran.</description>
+    </item>
+    <item>
+      <title>Panduan Integrasi Payment Gateway untuk Aplikasi di Indonesia</title>
+      <link>https://timacodecraft.com/blog/panduan-integrasi-payment-gateway</link>
+      <guid isPermaLink="true">https://timacodecraft.com/blog/panduan-integrasi-payment-gateway</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
+      <description>VA bank, e-wallet, QRIS, sampai kartu — cara memilih dan mengintegrasikan payment gateway (Midtrans/Xendit) dengan alur webhook yang aman dan rekonsiliasi yang benar.</description>
+    </item>
+    <item>
+      <title>Cara Memilih Tech Stack untuk Produk Digital: Web, Mobile, atau Keduanya</title>
+      <link>https://timacodecraft.com/blog/memilih-tech-stack-produk-digital</link>
+      <guid isPermaLink="true">https://timacodecraft.com/blog/memilih-tech-stack-produk-digital</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Nuxt, Laravel, Flutter, atau WordPress? Panduan jujur memilih teknologi berdasarkan kebutuhan bisnis, anggaran, dan rencana jangka panjang — bukan tren.</description>
+    </item>
+    <item>
+      <title>Mengapa UMKM Perlu Website Profesional (dan Bukan Hanya Media Sosial)</title>
+      <link>https://timacodecraft.com/blog/mengapa-umkm-perlu-website</link>
+      <guid isPermaLink="true">https://timacodecraft.com/blog/mengapa-umkm-perlu-website</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Media sosial penting, tapi bukan milik Anda. Pelajari kenapa website profesional jadi fondasi digital UMKM yang ingin tumbuh dan mudah ditemukan di Google.</description>
+    </item>
+    <item>
+      <title>Mengenal Vue 3 — Framework Modern untuk Web Development</title>
+      <link>https://timacodecraft.com/blog/mengenal-vue-3</link>
+      <guid isPermaLink="true">https://timacodecraft.com/blog/mengenal-vue-3</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+      <description>Vue 3 hadir dengan Composition API, performa lebih cepat, dan TypeScript support yang lebih baik. Simak kenapa kami memilih Vue 3 untuk proyek klien.</description>
+    </item>
+    <item>
+      <title>5 Cara Optimalisasi Kecepatan Website untuk SEO &amp; Konversi</title>
+      <link>https://timacodecraft.com/blog/optimalisasi-kecepatan-website</link>
+      <guid isPermaLink="true">https://timacodecraft.com/blog/optimalisasi-kecepatan-website</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>Kecepatan website mempengaruhi ranking SEO dan tingkat konversi. Pelajari 5 cara praktis mengoptimalkan performa website Anda.</description>
+    </item>
+    <item>
+      <title>Desain UI/UX yang Meningkatkan Konversi Bisnis</title>
+      <link>https://timacodecraft.com/blog/desain-ui-ux-untuk-konversi</link>
+      <guid isPermaLink="true">https://timacodecraft.com/blog/desain-ui-ux-untuk-konversi</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+      <description>Desain yang baik bukan hanya soal estetika. Pelajari prinsip desain UI/UX yang terbukti meningkatkan konversi dan retensi pengguna.</description>
+    </item>
+  </channel>
+</rss>
